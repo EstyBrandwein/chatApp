@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1047244576595",
+    "project_id": "goodchat-1ae1f",
+    "storage_bucket": "goodchat-1ae1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047244576595:android:a65602a56c5c10097cf3a6",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrESBCc7s-QYEy7_fb0R4CMy4O0QbXisc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
